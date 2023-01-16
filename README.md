@@ -1,1 +1,2 @@
-# c87-spectagram
+# spectagram-stage-4
+project solution c84
